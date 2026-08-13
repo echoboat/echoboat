@@ -1,16 +1,64 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**echoboat/echoboat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ⚓ 🌊 &nbsp; Hi, I'm Echo &nbsp; 🌊 ⛵
 
-Here are some ideas to get you started:
+### 🌊 Developer · Dreamer · Explorer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Always on the way *
+
+</div>
+
+<br>
+
+---
+
+## 🛶 About Me
+
+<table>
+<tr>
+<td width="55%">
+
+### 🌱 Personal Information
+
+- 🚢 **Name:** Qianzhou Zhang
+- 🎓 **University:** HHU
+- 📚 **Major:** Information Management and Information Systems
+- 📮 **Email:** 1229581429@qq.com
+
+</td>
+
+<td width="45%">
+
+### 🌊 A Little About Me
+> Keep learning.  
+> Keep creating.  
+> Keep moving forward. 🌱
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💻 Skills
+
+<div align="center">
+
+### 🐍 Python
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+### ☕ Java
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+
+### ⚡ C++
+
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+
+</div>
+
+<br>
+
+---
+

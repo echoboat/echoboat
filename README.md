@@ -4,11 +4,11 @@
 
 ### 🌸 Developer · Dreamer · Explorer
 
-*Always on the way *
+<div align="center">
+
+### ❀ *Always on the way* ❀
 
 </div>
-
-<br>
 
 ---
 

@@ -1,8 +1,8 @@
 <div align="center">
 
-# ⚓ 🌊 &nbsp; Hi, I'm Echo &nbsp; 🌊 ⛵
+# ⚓ 🌊 &nbsp; Hi, I'm Echo &nbsp; ✨ ⛵
 
-### 🌊 Developer · Dreamer · Explorer
+### 🌸 Developer · Dreamer · Explorer
 
 *Always on the way *
 
@@ -20,7 +20,7 @@
 
 ### 🌱 Personal Information
 
-- 🚢 **Name:** Qianzhou Zhang
+- 🚢 **Name:** Qz Zhang
 - 🎓 **University:** HHU
 - 📚 **Major:** Information Management and Information Systems
 - 📮 **Email:** 1229581429@qq.com
